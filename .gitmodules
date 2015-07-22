@@ -1,0 +1,9 @@
+[submodule "lib/FlexiColorPicker"]
+	path = lib/FlexiColorPicker
+	url = https://github.com/DavidDurman/FlexiColorPicker.git
+[submodule "lib/Adafruit_NeoPixel_FTDI"]
+	path = lib/Adafruit_NeoPixel_FTDI
+	url = https://github.com/tdicola/Adafruit_NeoPixel_FTDI.git
+[submodule "lib/cherrypy"]
+	path = lib/cherrypy
+	url = https://github.com/cherrypy/cherrypy.git
